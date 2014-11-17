@@ -1,6 +1,6 @@
 require 'formula'
 
-class MagentoPhpcs < Formula
+class Mouchy < Formula
     homepage 'https://github.com/fe-lix-/mouchy'
     url 'https://github.com/fe-lix-/mouchy/archive/0.0.2.tar.gz'
     sha1 '0fd41537538bc55216fcdcba9eee02b0fbd5f4ab'
